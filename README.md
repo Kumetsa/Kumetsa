@@ -1,10 +1,13 @@
-[![MasterHead](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)](https://rishavchanda.io)
+<div align="center">
+  <a href="https://rishavchanda.io">
+    <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="MasterHead"/>
+  </a>
+</div>
 
 <h1 align="center">Hi 👋, I'm Ivan "Kumetsa" Ivanov</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a Python developer with a passion for creating dynamic and innovative applications. Here, you'll find a collection of my projects, contributions, and coding adventures. Let's connect and build something amazing together!</h3>
 
 <img align="center" alt="coding" width="400" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif">
-
 
 - 🌱 I’m currently learning **JavaScript**
 
