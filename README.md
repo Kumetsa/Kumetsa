@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ivan "Kumetsa" Ivanov</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a Python developer with a passion for creating dynamic and innovative applications. Here, you'll find a collection of my projects, contributions, and coding adventures. Let's connect and build something amazing together!</h3>
 
-<img alight="right" alt"coding" width="400" src="https://giphy.com/gifs/KAq5w47R9rmTuvWOWa">
+<img align="right" alt"coding" width="400" src="https://giphy.com/gifs/KAq5w47R9rmTuvWOWa">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumetsa&label=Profile%20views&color=0e75b6&style=flat" alt="kumetsa" /> </p>
 
