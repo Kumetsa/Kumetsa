@@ -39,13 +39,15 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
-<div style="display: flex; justify-content: center;">
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kumetsa&show_icons=true&locale=en" alt="kumetsa" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumetsa&" alt="kumetsa" />
 </div>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumetsa&show_icons=true&locale=en&layout=compact" alt="kumetsa" />
+  <div style="display: flex; justify-content: center;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumetsa&show_icons=true&locale=en&layout=compact" alt="kumetsa" />
+  </div>
 </div>
 
 ---
