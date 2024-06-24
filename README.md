@@ -46,6 +46,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kumetsa&show_icons=true&locale=en"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumetsa&show_icons=true&locale=en&layout=compact"/>
 </a>
+<a href="https://github.com/Kumetsa">  
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=kumetsa&"/>
+</a>
 </p>
 
 ---
