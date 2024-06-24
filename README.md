@@ -41,11 +41,11 @@
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kumetsa&show_icons=true&locale=en" alt="kumetsa" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumetsa&show_icons=true&locale=en&layout=compact" alt="kumetsa" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumetsa&" alt="kumetsa" />
 </div>
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumetsa&" alt="kumetsa" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumetsa&show_icons=true&locale=en&layout=compact" alt="kumetsa" />
 </div>
 
 ---
